@@ -1,1 +1,1 @@
-# PCRcalculatorPWA-for56
+# manual
